@@ -1,5 +1,5 @@
 # company-dataframe-r
-beginner R project creates and structures a company data set ('donnees') using a 'data.frame' converting text categories into 'factors' and formatting dates with 'as.Date()"
+beginner R project creates and structures a company data set (`donnees`) using a `data.frame` converting text categories into `factors` and formatting dates with `as.Date()`
 
 ## how to run
 
