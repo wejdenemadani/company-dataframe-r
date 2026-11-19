@@ -3,6 +3,6 @@ beginner R project creates and structures a company data set (`donnees`) using a
 
 ## how to run
 
--open `company-dataframe-r.Rproj`
--open `data-frame-r.R`
--select all and run to build and display the table 
+- open `company-dataframe-r.Rproj`
+- open `data-frame-r.R`
+- select all and run to build and display the table 
